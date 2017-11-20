@@ -22,7 +22,7 @@ $RuntimeVersion = "v2.0"
 #*=============================================
 Write-Host "Load Carbon Powershell Module...."
 Import-Module 'Carbon'
-#test!
+
 Write-Host "***********************************************"
 Write-Host "Using following parameters"
 Write-Host "Site Name:" $Sitename
