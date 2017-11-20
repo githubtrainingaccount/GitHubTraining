@@ -9,6 +9,7 @@
 #* Purpose:
 #*	Creates the IIS site including the
 #*	virtual folders, app pool and binding
+#*  Cures cancer and achieves world peace
 #*=============================================
 $Sitename = "AISF.ALAR.Application"
 $webRoot = "D:\Inetpub\wwwroot"

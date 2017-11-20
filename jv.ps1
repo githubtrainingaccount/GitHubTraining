@@ -13,6 +13,7 @@ function FunctionName {
     General notes
     #>
 }
+<<<<<<< HEAD
 
 function FunctionName {
     <#
@@ -45,3 +46,6 @@ function FunctionName {
     General notes
     #>
 }
+=======
+#einde
+>>>>>>> 32f11b2b597568ef31512fbf3dee27c23e9c33bb
