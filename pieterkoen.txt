@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dkgjmqsdgjqsdmlgjq
+=======
+Deze file mag weg want dit is een test
+>>>>>>> 741e34f60204c302f8cf5bb4c006ea9876c96ce9
